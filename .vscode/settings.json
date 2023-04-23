@@ -1,0 +1,14 @@
+{
+    "cSpell.ignoreWords": [
+        "nums"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": false,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "explorerExclude.backup": {}
+}
